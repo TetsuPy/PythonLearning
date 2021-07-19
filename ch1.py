@@ -1,0 +1,1 @@
+#Things just about installing python and testing them with print("hello world")
